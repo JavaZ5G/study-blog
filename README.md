@@ -1,2 +1,2 @@
 # study-blog
-- blog
+blog
