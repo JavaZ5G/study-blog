@@ -18,6 +18,7 @@ import java.util.UUID;
 public class LoginController extends BaseController {
     @RequestMapping(value = "login", method = RequestMethod.POST)
     public JSONObject login(@RequestBody JSONObject jsonObject) {
+
         return new JSONObject();
     }
 }
