@@ -11,5 +11,11 @@
 
     <artifactId>study-blog-core</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>com.z5g</groupId>
+            <artifactId>study-blog-db</artifactId>
+            <version>${project.parent.version}</version>
+        </dependency>
+    </dependencies>
 </project>
